@@ -12,14 +12,14 @@
         <link rel="stylesheet" type="text/css" href="<?php echo get_bloginfo('template_directory'); ?>/style.css">
 
         <title><?php echo get_bloginfo('name'); ?></title>
-        <link rel = "icon" type = "image/webp" href = "<?php echo get_bloginfo('template_directory'); ?>/images/logo-min.webp">
+        <link rel = "icon" type = "image/webp" href = "<?php echo get_bloginfo('template_directory'); ?>/images/Logo.webp">
 
         <?php wp_head(); ?>
     </head>
     <body>
 <!-- nav-->
         <nav class="navbar navbar-expand-lg navbar-dark sticky-top" id="navibar">
-            <a class="navbar-brand" href="http://localhost:8888"><img src="<?php echo get_bloginfo('template_directory'); ?>/images/logo.webp" height="45" width="77" class="d-inline-block"></a>
+            <a class="navbar-brand" href="http://localhost:8888"><img src="<?php echo get_bloginfo('template_directory'); ?>/images/Logo.webp" height="35" width="70" class="d-inline-block"></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -49,7 +49,7 @@
         <section id="sec1">
             <div class="container">
                 <div class="row justify-content-center">
-                    <div class="col-12 text-center"> <img src="<?php echo get_bloginfo('template_directory'); ?>/images/logo.webp" height="280" width="476" class="img-fluid"></div>
+                    <div class="col-12 text-center"> <img src="<?php echo get_bloginfo('template_directory'); ?>/images/" height="105" width="876" class="img-fluid"></div>
                 </div>
             </div>
         </section>

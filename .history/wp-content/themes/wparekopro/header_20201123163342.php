@@ -49,7 +49,7 @@
         <section id="sec1">
             <div class="container">
                 <div class="row justify-content-center">
-                    <div class="col-12 text-center"> <img src="<?php echo get_bloginfo('template_directory'); ?>/images/logo.webp" height="280" width="476" class="img-fluid"></div>
+                    <div class="col-12 text-center"> <img src="<?php echo get_bloginfo('template_directory'); ?>/images/logo.webp" height="105" width="178" class="img-fluid"></div>
                 </div>
             </div>
         </section>
