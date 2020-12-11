@@ -1,0 +1,31 @@
+/*
+Theme name: Ekoprojekt
+Theme URI: http://ekoprojekt-rybnik.com.pl
+Author: Artur Robek
+Author URI: http://arturrobek.pl
+Description: Constraction company website style and layout.
+Requires at least: 4.9.6
+Requires PHP: 5.2.4
+Version: 0.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: Ekoprojekt
+Tags: construction
+*/
+
+#navibar {
+    background: rgba(177, 8, 118, 1);
+}
+
+#navbarNavAltMarkup a {
+    color: black;
+}
+
+#sec1 {
+    height: 450px;
+    background: url('images/background-head.webp') no-repeat center center fixed;
+}
+
+#sec1 img {
+    margin: 50px 0;
+}

@@ -12,8 +12,6 @@ if ( ! defined( '_S_VERSION' ) ) {
 	define( '_S_VERSION', '1.0.0' );
 }
 
-require_once ('class-wp-bootstrap-navwalker.php');
-
 if ( ! function_exists( 'wparekopro_setup' ) ) :
 	/**
 	 * Sets up theme defaults and registers support for various WordPress features.
@@ -52,7 +50,7 @@ if ( ! function_exists( 'wparekopro_setup' ) ) :
 		// This theme uses wp_nav_menu() in one location.
 		register_nav_menus(
 			array(
-				'primary-menu' => 'Główne menu',
+				'menu-1' => esc_html__( 'Primary', 'wparekopro' ),
 			)
 		);
 

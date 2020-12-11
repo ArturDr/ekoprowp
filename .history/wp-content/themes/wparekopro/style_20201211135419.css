@@ -47,7 +47,6 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 # Utilities
 	- Accessibility
 	- Alignments
-# Styles Ekoprojekt
 
 --------------------------------------------------------------*/
 
@@ -967,29 +966,4 @@ textarea {
 	margin-left: auto;
 	margin-right: auto;
 	margin-bottom: 1.5em;
-}
-
-/* Ekoprojekt Styles
----------------------------------------------------- */
-
-#navibar {
-    background: rgba(0, 86, 74, 1);
-    transition: 0.5s ease;
-}
-
-#navibar.scrolled {
-    background: rgba(0, 86, 74, 0.7);
-}
-
-#navbarNavAltMarkup a {
-    color: black;
-}
-
-#sec1 {
-    height: 450px;
-    background: url('images/background-head.webp') no-repeat center center fixed;
-}
-
-#sec1 img {
-    margin: 50px 0;
 }
