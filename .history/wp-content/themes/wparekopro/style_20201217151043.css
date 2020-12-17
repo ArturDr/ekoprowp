@@ -973,12 +973,12 @@ textarea {
 ---------------------------------------------------- */
 
 #navibar {
-    background: rgba(41, 192, 9, 1);
+    background: rgba(230, 101, 10, 1);
     transition: 0.5s ease;
 }
 
 #navibar.scrolled {
-    background: rgba(41, 192, 9, 0.7);
+    background: rgba(230, 101, 10, 0.7);
 }
 
 #navbarNavAltMarkup a {
@@ -987,7 +987,7 @@ textarea {
 
 #sec1 {
     height: 450px;
-    background: url('assets/img/background-head.webp') no-repeat center center fixed;
+    background: url('images/background-head.webp') no-repeat center center fixed;
 }
 
 #sec1 img {
