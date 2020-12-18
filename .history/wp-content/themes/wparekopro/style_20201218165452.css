@@ -189,29 +189,10 @@ textarea {
 
 /* Widgets
 --------------------------------------------- */
-.widget {
-	margin: 0 0 1.5em;
-}
 
-.widget select {
-	max-width: 100%;
-}
 
 /* Media
 --------------------------------------------- */
-.page-content .wp-smiley,
-.entry-content .wp-smiley,
-.comment-content .wp-smiley {
-	border: none;
-	margin-bottom: 0;
-	margin-top: 0;
-	padding: 0;
-}
-
-/* Make sure logo link wraps around logo image. */
-.custom-logo-link {
-	display: inline-block;
-}
 
 /* Captions
 --------------------------------------------- */
@@ -393,7 +374,7 @@ textarea {
 #navbarNavAltMarkup a {
 	color: rgba(191, 67, 79, 1);
 	font-family:Arial, Helvetica, sans-serif;
-	font-weight: 500;
+	font-weight: 600;
 }
 
 .dropdown-menu {

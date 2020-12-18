@@ -48,8 +48,8 @@
 <!--Section1-->
         <section id="sec1">
             <div class="container">
-                <div class="row">
-                    <div class="col-12"> <img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/logo.webp" height="280" width="476" class="img-fluid"></div>
+                <div class="row justify-content-center">
+                    <div class="col-12 text-center"> <img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/logo.webp" height="280" width="476" class="img-fluid"></div>
                 </div>
             </div>
         </section>
