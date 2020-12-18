@@ -386,11 +386,7 @@ body {
 }
 
 h1 {
-	font-size: 2.5em;
-}
-
-p {
-	font-size: 1em;
+	font-size: 3.3em;
 }
 
 #navibar {
@@ -403,11 +399,10 @@ p {
 }
 
 #navbarNavAltMarkup a {
-	text-decoration: none;
 	color: rgba(191, 67, 79, 1);
 	font-family:Arial, Helvetica, sans-serif;
-	font-weight: 500;
-	font-size: 1.1em;
+	font-weight: 600;
+	font-size: 1em;
 }
 
 .dropdown-menu {
@@ -435,18 +430,5 @@ p {
 }
 
 #sec4 h1 {
-	color: rgba( 166, 90, 36, 1);
-	margin: 3em 0 1em 0;
+	margin-top: 3em;
 }
-
-#sec4 p {
-	margin: 0.8em 0 0 0;
-}
-
-#sec4 footer {
-	font-size: 0.8em;
-	color: rgba( 166, 90, 36, 1);
-	margin-top: 5em;
-}
-
-

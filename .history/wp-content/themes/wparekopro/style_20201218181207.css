@@ -436,17 +436,11 @@ p {
 
 #sec4 h1 {
 	color: rgba( 166, 90, 36, 1);
-	margin: 3em 0 1em 0;
+	margin: 3em 0 0.5em 0;
 }
 
 #sec4 p {
 	margin: 0.8em 0 0 0;
-}
-
-#sec4 footer {
-	font-size: 0.8em;
-	color: rgba( 166, 90, 36, 1);
-	margin-top: 5em;
 }
 
 

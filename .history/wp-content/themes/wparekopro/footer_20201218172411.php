@@ -2,19 +2,18 @@
         <section id="sec4">
             <div class="container">
                 <div class="row justify-content-center" id="kontakt">
-                    <div class="col-12">
+                    <div class="col-xl-2 col-lg-3 col-md-4 col-sm-4 col-6">
                         <h1 class="text-center">KONTAKT</h1>
                     </div>
                 </div>
                 <div class="row justify-content-center">
-                    <div class="col-12">
+                    <div class="col-xl-2 col-lg-2 col-md-3 col-sm-4 col-6">
                         <p class="text-center">ul. Rudzka 96/2, 44-200 Rybnik</p>
-                        <p class="text-center">+48 601 214 021</p>
-                        <p class="text-center">robek.roman@gmail.com</p>
+                        <p class="text-center">+48 601 214 021</p> <p class="text-center">robek.roman@gmail.com</p>
                     </div>
                 </div>
                 <div class="row justify-content-end">
-                    <div class="col-12 text-right">
+                    <div class="col-12">
                         <footer>
                             <p>&copy;2020 Ekoprojekt<br>Created by: Artur Robek</p>
                         </footer>
