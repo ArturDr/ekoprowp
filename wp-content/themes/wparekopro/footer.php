@@ -9,8 +9,8 @@
                 <div class="row justify-content-center">
                     <div class="col-12">
                         <p class="text-center">ul. Rudzka 96/2, 44-200 Rybnik</p>
-                        <p class="text-center">+48 601 214 021</p>
-                        <p class="text-center">robek.roman@gmail.com</p>
+                        <p class="text-center"><a href="tel:+48 601 214 021">+48 601 214 021</a></p>
+                        <p class="text-center"><a href="mailto:robek.roman@gmail.com">robek.roman@gmail.com</a></p>
                     </div>
                 </div>
                 <div class="row justify-content-end">
