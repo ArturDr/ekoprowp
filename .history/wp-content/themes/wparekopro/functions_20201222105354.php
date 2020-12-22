@@ -17,7 +17,7 @@ if ( ! file_exists( get_template_directory() . '/class-wp-bootstrap-navwalker.ph
 	return new WP_Error( 'class-wp-bootstrap-navwalker-missing', __( 'It appears the class-wp-bootstrap-navwalker.php file may be missing.', 'wp-bootstrap-navwalker' ) );
 } else {
 	// file exists... require it.
-    require_once get_template_directory() . '/class-wp-bootstrap-navwalker.php';
+    require_once get_template_directory . '/class-wp-bootstrap-navwalker.php';
 }
 
 if ( ! function_exists( 'wparekopro_setup' ) ) :
@@ -58,7 +58,7 @@ if ( ! function_exists( 'wparekopro_setup' ) ) :
 		// This theme uses wp_nav_menu() in one location.
 		register_nav_menus(
 			array(
-				'primary' => 'Główne menu',
+				'primary-menu' => 'Główne menu',
 			)
 		);
 

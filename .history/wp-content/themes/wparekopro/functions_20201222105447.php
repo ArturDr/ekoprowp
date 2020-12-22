@@ -58,7 +58,7 @@ if ( ! function_exists( 'wparekopro_setup' ) ) :
 		// This theme uses wp_nav_menu() in one location.
 		register_nav_menus(
 			array(
-				'primary' => 'Główne menu',
+				'primary-menu' => 'Główne menu',
 			)
 		);
 

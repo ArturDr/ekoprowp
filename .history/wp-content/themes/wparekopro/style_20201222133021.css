@@ -394,27 +394,31 @@ p {
 }
 
 #navibar {
-	background: rgba(6, 82, 72, 0.99);
+	background: rgb(6, 82, 72);
 	font-family: Arial;
 	text-transform: uppercase;
-    transition: 0.5s ease;
+    transition: 0.5s;
 }
 
-#navibar.scrolled {
-	background: rgba(6, 82, 72, 0.75);
-}
+/* #navibar.scrolled {
+	background: rgba(6, 82, 72, 0.7);
+} */
+
+/* #menu-glowne {
+	position: static;
+} */
 
 #navbarNavAltMarkup a {
-	color: rgba(191, 67, 79, 0.99);
+	color: rgba(191, 67, 79, 1);
 }
 
 .dropdown-menu {
-	background: rgba(6, 82, 72, 0.99);
+	background: rgba(6, 82, 72, 1);
 	border-radius: 0%;
 }
 
 #navbarNavAltMarkup .dropdown-menu li a:hover {
-	background: rgba(0, 58, 50, 0.99);
+	background: rgba(0, 58, 50, 1);
 }
 
 #sec1 {
@@ -427,13 +431,13 @@ p {
 }
 
 #sec4 {
-	background: rgba(127, 9, 20, 0.99);
+	background: rgba(127, 9, 20, 1);
 	font-family: Arial;
 	color: white;
 }
 
 #sec4 h1 {
-	color: rgba( 166, 90, 36, 0.99);
+	color: rgba( 166, 90, 36, 1);
 	margin: 2.5em 0 1em 0;
 }
 
@@ -448,7 +452,7 @@ p {
 
 #sec4 footer {
 	font-size: 0.8em;
-	color: rgba( 166, 90, 36, 0.99);
+	color: rgba( 166, 90, 36, 1);
 	margin-top: 6em;
 }
 

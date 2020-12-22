@@ -19,24 +19,29 @@
     <body>
 <!-- nav-->
         <nav class="navbar navbar-expand-lg navbar-dark sticky-top" id="navibar">
-            <div class="container-fluid">
-            <a class="navbar-brand" href="http://localhost:8888"><img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/logo.webp" height="45" width="77"></a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <?php
+            <a class="navbar-brand" href="http://localhost:8888"><img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/logo.webp" height="45" width="77" class="d-inline-block"></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse justify-content-start" id="navbarNavAltMarkup">
+                <div class="navbar-nav">
+                    <?php
                         wp_nav_menu( array(
-                        'theme_location'    => 'primary',
-                        'depth'             => 2,
+                        'menu'              => 'primary',
+                        'theme_location'    => 'primary-menu',
+                        'depth'             => 1,
                         'container'         => 'div',
-                        'container_class'   => 'collapse navbar-collapse',
-                        'container_id'      => 'navbarNavAltMarkup',
-                        'menu_class'        => 'nav navbar-nav',
+                        'container_class'   => '',
+                        'container_id'      => '',
+                        'menu_class'        => 'navbar-nav',
                         'fallback_cb'       => 'wp_bootstrap_navwalker::fallback',
                         'walker'            => new wp_bootstrap_navwalker())
                      );
                 ?>
+                </div>
             </div>
+
+            <!--<?php wp_nav_menu(['theme_location' => 'primary-menu', 'fallback_cb' => 'false']); ?>-->
         </nav>
 <!-- end nav-->
 

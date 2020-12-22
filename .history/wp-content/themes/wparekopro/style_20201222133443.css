@@ -427,13 +427,13 @@ p {
 }
 
 #sec4 {
-	background: rgba(127, 9, 20, 0.99);
+	background: rgba(127, 9, 20, 1);
 	font-family: Arial;
 	color: white;
 }
 
 #sec4 h1 {
-	color: rgba( 166, 90, 36, 0.99);
+	color: rgba( 166, 90, 36, 1);
 	margin: 2.5em 0 1em 0;
 }
 
@@ -448,7 +448,7 @@ p {
 
 #sec4 footer {
 	font-size: 0.8em;
-	color: rgba( 166, 90, 36, 0.99);
+	color: rgba( 166, 90, 36, 1);
 	margin-top: 6em;
 }
 

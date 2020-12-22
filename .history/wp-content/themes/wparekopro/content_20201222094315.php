@@ -12,5 +12,5 @@
         <h2>Nic nie znaleziono.</h2>
 <?php endif; ?>
 <div class="navigation-bottom">
-        <?php next_posts_link('<< Starsze artykuły'); ?> | <?php previous_posts_link('Nowsze artykuły >>'); ?>
+        <?php next_posts_link('<< Starsze artykuly'); ?> | <?php previous_posts_link('Nowsze artykuly >>'); ?>
 </div>
