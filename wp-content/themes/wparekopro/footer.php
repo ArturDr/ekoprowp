@@ -11,6 +11,9 @@
                         <p class="text-center">ul. Rudzka 96/2, 44-200 Rybnik</p>
                         <p class="text-center"><a href="tel:+48 601 214 021">+48 601 214 021</a></p>
                         <p class="text-center"><a href="mailto:robek.roman@gmail.com">robek.roman@gmail.com</a></p>
+                        <p class="text-center">BHP: <a href="mailto:robek.bhp@gmail.com">robek.bhp@gmail.com</a></p>
+                        <p class="text-center">NIP: 642 041 31 14</p>
+                        <p class="text-center">Regon: 241644630</p>
                     </div>
                 </div>
                 <div class="row justify-content-end">
