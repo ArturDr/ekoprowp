@@ -32,7 +32,7 @@ get_header();
 		</div>
 		<div class="row">
 			<div class="col-md-10 col-12">
-				<h2><strong><?php echo $zapro ?></strong></h2>
+				<h2><strong>?php echo $zapro ?></strong></h2>
 			</div>
 		</div>
 	</div>

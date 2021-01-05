@@ -459,12 +459,7 @@ a {
 }
 
 #sec2 p {
-	margin: 3em 0 2em 0;
-}
-
-#sec2 h2 {
-	color: rgba( 166, 90, 36, 0.99);
-	margin-bottom: 3em;
+	margin: 3em 0 5em 0;
 }
 
 #sec1_bhp h1 {
@@ -484,9 +479,8 @@ a {
 	color: rgba( 166, 90, 36, 0.99);
 }
 
-#sec3_ofer {
-	color: rgba( 166, 90, 36, 0.99);
-	margin-bottom: 4em;
+#sec3_ofer h2 {
+	margin-bottom: 3em;
 }
 
 #sec4 {
