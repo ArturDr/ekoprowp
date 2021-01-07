@@ -504,8 +504,9 @@ a {
 	margin: 1em 0 1em 0;
 }
 
-#sec2_realiz {
-	margin: 2em 0 5em 0;
+#sec2_realiz iframe {
+	margin: 2em 0 2em 0;
+	padding: 2em;
 }
 
 #sec3_bhp {
@@ -533,7 +534,7 @@ a {
 }
 
 #sec4 p {
-	margin: 0.3em 0 0.3em 0;
+	margin: 0;
 }
 
 #sec4 p a {
