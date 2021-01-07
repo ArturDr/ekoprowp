@@ -508,7 +508,8 @@ a {
 	margin: 2em 0 5em 0;
 }
 
-#sec2_realiz .realiza {
+#sec2_realiz iframe {
+	padding: 1em;
 	margin: 0.5em 0 0.5em 0;
 }
 

@@ -34,19 +34,15 @@ get_header();
 </section>
 <section id="sec2_realiz">
 	<div class="container">
-        <div class="row justify-content-between">
-			<div class="col-md-6 col-12">
-                <div class="realiza">
-                    <div class="embed-responsive embed-responsive-4by3">
-                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/vBFB0O7bZpI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    </div>
+        <div class="row justify-content-evenly">
+			<div class="col-md-5 col-12">
+                <div class="embed-responsive">
+                    <iframe class="embed-responsive-item" width="420" height="300" src="https://www.youtube.com/embed/vBFB0O7bZpI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
             </div>
-            <div class="col-md-6 col-12">
-                <div class="realiza">
-                    <div class="embed-responsive embed-responsive-4by3">
-                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/vD4cHwWhHYY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    </div>
+            <div class="col-md-5 col-12">
+                <div class="embed-responsive">
+                    <iframe class="embed-responsive-item" width="420" height="300" src="https://www.youtube.com/embed/vD4cHwWhHYY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
             </div>
         </div>

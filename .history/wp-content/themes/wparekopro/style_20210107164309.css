@@ -508,8 +508,8 @@ a {
 	margin: 2em 0 5em 0;
 }
 
-#sec2_realiz .realiza {
-	margin: 0.5em 0 0.5em 0;
+#sec2_realiz iframe {
+	padding: 0 1em 0 1em;
 }
 
 #sec3_bhp {
