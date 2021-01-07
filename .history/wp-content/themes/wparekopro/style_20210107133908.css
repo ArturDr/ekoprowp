@@ -491,9 +491,8 @@ a {
 	margin: 0;
 }
 
-#sec2_ubez p a {
+#sec2_ubez p, a {
 	text-decoration: none;
-	color: black;
 }
 
 #sec2_kwal {

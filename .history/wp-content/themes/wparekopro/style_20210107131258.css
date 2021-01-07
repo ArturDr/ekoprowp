@@ -458,10 +458,6 @@ a {
 	margin-bottom: 2.5em;
 }
 
-#sec1_bhp h1 {
-	color: rgba(127, 9, 20, 0.99);
-}
-
 #sec2 p {
 	margin: 3em 0 2em 0;
 }
@@ -469,6 +465,10 @@ a {
 #sec2 h2 {
 	color: rgba( 166, 90, 36, 0.99);
 	margin-bottom: 3em;
+}
+
+#sec1_bhp h1 {
+	color: rgba(127, 9, 20, 0.99);
 }
 
 #sec2_bhp h3 {
@@ -488,20 +488,7 @@ a {
 }
 
 #sec2_ubez p {
-	margin: 0;
-}
-
-#sec2_ubez p a {
-	text-decoration: none;
-	color: black;
-}
-
-#sec2_kwal {
-	margin: 0 0 5em 0;
-}
-
-#sec2_kwal p {
-	margin: 1em 0 1em 0;
+	margin: -0.1em 0 -0.1em 0;
 }
 
 #sec3_bhp {
@@ -512,6 +499,14 @@ a {
 #sec3_ofer {
 	color: rgba( 166, 90, 36, 0.99);
 	margin-bottom: 4em;
+}
+
+#sec2_kwal {
+	margin: 0 0 5em 0;
+}
+
+#sec2_kwal p {
+	margin: 1em 0 1em 0;
 }
 
 .specjal {
@@ -529,7 +524,7 @@ a {
 }
 
 #sec4 p {
-	margin: 0;
+	margin: 0.8em 0 0 0;
 }
 
 #sec4 p a {
